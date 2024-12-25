@@ -1,4 +1,4 @@
-# A simple ready to use tailwind starter files
+# A Image gallery on Tailwind
 
 run npm i to install dpendecies  
 npm run build to make a comipled css file  
