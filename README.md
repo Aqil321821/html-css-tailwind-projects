@@ -20,4 +20,4 @@ Demo : https://frabjous-medovik-47ea96.netlify.app/
 Demo : https://dashing-douhua-e093a8.netlify.app/   
 
 ### Dark/Light Mode site using tailwind  
-Demo : 
+Demo : https://classy-sopapillas-8748f6.netlify.app/   
